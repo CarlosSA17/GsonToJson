@@ -1,0 +1,14 @@
+[
+  {
+    "my_id": 1,
+    "my_name": "sagar",
+    "my_age": 15,
+    "my_dept": "A"
+  },
+  {
+    "my_id": 2,
+    "my_name": "skx coding",
+    "my_age": 2,
+    "my_dept": "B"
+  }
+]

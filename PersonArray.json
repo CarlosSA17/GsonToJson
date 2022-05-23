@@ -1,0 +1,14 @@
+[
+  {
+    "myId": 1,
+    "myName": "sagar",
+    "myAge": 15,
+    "myDept": "A"
+  },
+  {
+    "myId": 2,
+    "myName": "skx coding",
+    "myAge": 2,
+    "myDept": "B"
+  }
+]
